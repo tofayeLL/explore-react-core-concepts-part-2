@@ -13,7 +13,7 @@ export default function Counter() {
     }
 
     return (
-        <div>
+        <div style={{border: '2px solid red'}}>
             <h3>Counter: {count}</h3>
             <button onClick={handleAdd}>Add</button>
             <button onClick={handleReduce}>reduce</button>
