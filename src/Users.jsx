@@ -28,5 +28,7 @@ export default function Users() {
 step-1: declare a Use State to hold the data.
 step-2: declare useEffects with two parameters (arrow function , dependency array).
 step-3: use fetch to load data 
+step-4: loaded data set in state
+step-5: display data
 
 */

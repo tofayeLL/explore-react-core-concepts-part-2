@@ -23,6 +23,8 @@ export default function Friends() {
 /*
 step-1: declare useState for hold data
 step-2: declare useEffects with two parameter (arrow function , dependency array)
-step-3: fetch data 
+step-3: fetch data or load data 
+step-4: loaded data set in state
+step-5: display data
  
 */
